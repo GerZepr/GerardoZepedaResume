@@ -500,6 +500,7 @@ a:focus {
     padding: 60px 30px;
     background: #ffffff;
     border-bottom: 30px solid #5da3f4;
+    border-radius: 50px;
 }
 
 .education .edu-col {
@@ -573,11 +574,12 @@ a:focus {
     padding: 60px 30px;
     background: #ffffff;
     border-bottom: 30px solid #5da3f4;
+    border-radius: 50px;
 }
 
 .experience .exp-col {
     position: relative;
-    width: 750px;
+    width: 100%;
     padding: 20px 0 20px 20px;
     border-left: 1px solid #FF6F61;
     border-bottom: 1px solid #FF6F61;
@@ -660,6 +662,7 @@ a:focus {
     padding: 60px 30px 30px 30px;
     background: #ffffff;
     border-bottom: 30px solid #5da3f4;
+    border-radius: 50px;
 }
 
 .service .srv-col {
@@ -991,6 +994,7 @@ a:focus {
     position: relative;
     padding: 60px 30px 30px 30px;
     background: #ffffff;
+    border-radius: 50px;
 }
 
 .contact .contact-info {
